@@ -45,3 +45,16 @@ Step6 = Step5.replace("╔", f"{color2}╔")
 LastOutput = Step6.replace("█", f"{color1}█")
 ```
 Much faster as you can easily change the definition of `color1` or `color2` to get a different output!  **Refer to source code for full example**
+
+# Output of both
+```
+██╗  ██╗██╗
+██║  ██║██║
+███████║██║
+██╔══██║██║
+██║  ██║██║
+╚═╝  ╚═╝╚═╝ 
+``` 
+(But with actual color)
+
+# Enjoy Coding!
